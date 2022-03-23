@@ -179,4 +179,8 @@
   - Documentation for tax
 - Deal with issues as your first priority
 
+## Money Management 
+- Seperate business & personal finances
+- Save 20-30% of gross profit for taxes
+- Get an accounting software
 
